@@ -27,7 +27,7 @@
   background-color: #87ceeb;
   position: absolute;
   top: 100px;
-  right: 100px;
+  left: 100px;
 
 }
 
@@ -37,7 +37,7 @@
   background-color: #87ceeb;
   position: absolute;
   top: 300px;
-  right: 300px;
+  left: 300px;
 }
 
 #middle-childo3 {
@@ -46,7 +46,7 @@
   background-color: #87ceeb;
   position: absolute;
   top: 500px;
-  right: 500px;
+  left: 500px;
 }
 
 #bottom {
